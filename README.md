@@ -4,8 +4,15 @@
 </div>
 
 ## Table of Contents
+- [Features](#features)
 - [Up and Run](#up-and-run)
 
+
+### Features
+
+- Extract Person Names
+- Extract Organization Names
+- Extract Dates
 
 ### Up and Run
 
