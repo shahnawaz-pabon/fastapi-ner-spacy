@@ -4,9 +4,14 @@
 </div>
 
 ## Table of Contents
+- [Prerequisites](#prerequisites)
 - [Features](#features)
 - [Up and Run](#up-and-run)
 
+### Prerequisites
+
+- Docker
+- Docker Componse
 
 ### Features
 
